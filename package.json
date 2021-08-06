@@ -1,0 +1,17 @@
+{
+  "name": "autoapi-webpack-plugin",
+  "version": "0.0.1",
+  "description": "js comment transform to md",
+  "main": "lib/autoapi-webpack-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muzi",
+  "license": "ISC",
+  "dependencies": {
+    "babel-autoapi": "0.0.7",
+    "glob": "^7.1.7",
+    "webpack": "^5.48.0",
+    "webpack-cli": "^4.7.2"
+  }
+}

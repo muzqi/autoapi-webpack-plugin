@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "launch AutoApiWebpackPlugin",
+      "program": "${workspaceRoot}/lib/run.js"
+    }
+  ]
+}
